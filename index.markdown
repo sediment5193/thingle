@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![YOU BE WHAT]({{ site.url }}{{ site.baseurl}}/assets/img/youbewat.webp)
